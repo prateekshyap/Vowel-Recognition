@@ -1,0 +1,200 @@
+File taken - testing/214101037_a_11.txt
+Recognized alphabet- a
+24.611551 171.744202 319.725503 79.010249 103.099248 
+
+File taken - testing/214101037_a_12.txt
+Recognized alphabet- a
+74.120678 500.415768 700.731659 330.242460 499.566500 
+
+File taken - testing/214101037_a_13.txt
+Recognized alphabet- a
+31.641684 392.730231 573.247446 231.355556 368.838788 
+
+File taken - testing/214101037_a_14.txt
+Recognized alphabet- a
+30.040301 357.444184 588.085669 222.399532 286.477538 
+
+File taken - testing/214101037_a_15.txt
+Recognized alphabet- a
+23.216911 390.806572 586.576576 239.907117 360.900013 
+
+File taken - testing/214101037_a_16.txt
+Recognized alphabet- a
+8.804607 287.054661 504.757723 152.952079 270.681697 
+
+File taken - testing/214101037_a_17.txt
+Recognized alphabet- a
+18.388844 389.243848 603.661593 225.914444 331.772937 
+
+File taken - testing/214101037_a_18.txt
+Recognized alphabet- a
+13.564274 360.243121 544.415177 193.735189 280.712220 
+
+File taken - testing/214101037_a_19.txt
+Recognized alphabet- a
+15.778688 369.357777 564.257617 207.171049 326.947027 
+
+File taken - testing/214101037_a_20.txt
+Recognized alphabet- a
+31.807907 376.984002 555.517807 230.094572 350.854810 
+
+File taken - testing/214101037_e_11.txt
+Recognized alphabet- e
+226.409428 7.343077 116.482545 43.611876 91.358554 
+
+File taken - testing/214101037_e_12.txt
+Recognized alphabet- e
+302.284906 9.970295 124.101019 86.339168 121.489016 
+
+File taken - testing/214101037_e_13.txt
+Recognized alphabet- e
+299.584998 12.891898 105.022897 99.079047 121.027114 
+
+File taken - testing/214101037_e_14.txt
+Recognized alphabet- e
+265.642570 26.013663 180.839923 86.519983 126.236279 
+
+File taken - testing/214101037_e_15.txt
+Recognized alphabet- e
+205.367971 21.306113 179.009434 54.639697 99.961486 
+
+File taken - testing/214101037_e_16.txt
+Recognized alphabet- e
+244.997014 26.950091 191.295934 69.720245 112.957503 
+
+File taken - testing/214101037_e_17.txt
+Recognized alphabet- e
+270.527650 37.884297 214.155333 103.196932 136.773523 
+
+File taken - testing/214101037_e_18.txt
+Recognized alphabet- e
+291.166526 8.242084 142.443596 88.698107 137.239659 
+
+File taken - testing/214101037_e_19.txt
+Recognized alphabet- e
+283.106784 4.714876 108.075961 75.650298 97.544954 
+
+File taken - testing/214101037_e_20.txt
+Recognized alphabet- e
+302.284906 9.970295 124.101019 86.339168 121.489016 
+
+File taken - testing/214101037_i_11.txt
+Recognized alphabet- i
+377.991639 124.461272 10.498585 217.926118 188.631229 
+
+File taken - testing/214101037_i_12.txt
+Recognized alphabet- i
+543.285417 218.072696 136.846659 341.424845 183.618369 
+
+File taken - testing/214101037_i_13.txt
+Recognized alphabet- i
+479.203759 140.560846 8.172361 256.699258 249.336353 
+
+File taken - testing/214101037_i_14.txt
+Recognized alphabet- i
+692.919220 331.002566 170.420226 478.416742 321.060057 
+
+File taken - testing/214101037_i_15.txt
+Recognized alphabet- i
+387.001433 91.558719 13.336800 203.291886 178.082382 
+
+File taken - testing/214101037_i_16.txt
+Recognized alphabet- u
+489.101360 278.039898 210.126684 362.494975 173.478298 
+
+File taken - testing/214101037_i_17.txt
+Recognized alphabet- i
+308.877537 83.520078 37.750628 145.484320 174.279905 
+
+File taken - testing/214101037_i_18.txt
+Recognized alphabet- u
+430.497525 231.548603 162.285157 310.875399 159.380775 
+
+File taken - testing/214101037_i_19.txt
+Recognized alphabet- i
+359.119427 84.486027 26.660691 173.342004 177.671487 
+
+File taken - testing/214101037_i_20.txt
+Recognized alphabet- i
+542.264139 209.100331 45.674862 322.535689 351.633991 
+
+File taken - testing/214101037_o_11.txt
+Recognized alphabet- o
+92.171168 189.653793 410.951471 48.304834 157.335183 
+
+File taken - testing/214101037_o_12.txt
+Recognized alphabet- o
+103.558782 82.293312 297.305057 22.355747 73.465523 
+
+File taken - testing/214101037_o_13.txt
+Recognized alphabet- o
+144.798843 49.327067 213.015172 13.584826 53.906504 
+
+File taken - testing/214101037_o_14.txt
+Recognized alphabet- o
+97.013068 108.746124 334.976689 47.069358 107.545626 
+
+File taken - testing/214101037_o_15.txt
+Recognized alphabet- o
+136.146468 106.146386 321.844046 42.871498 65.930000 
+
+File taken - testing/214101037_o_16.txt
+Recognized alphabet- o
+176.908176 84.366614 280.444813 44.137700 55.347295 
+
+File taken - testing/214101037_o_17.txt
+Recognized alphabet- o
+144.891541 104.826998 323.952999 48.931578 70.523995 
+
+File taken - testing/214101037_o_18.txt
+Recognized alphabet- o
+132.840861 97.563514 263.903861 12.090138 111.711822 
+
+File taken - testing/214101037_o_19.txt
+Recognized alphabet- o
+68.737807 149.201025 361.457588 49.607888 99.355229 
+
+File taken - testing/214101037_o_20.txt
+Recognized alphabet- o
+122.012534 119.919066 330.278372 48.310411 66.027904 
+
+File taken - testing/214101037_u_11.txt
+Recognized alphabet- u
+204.184362 110.932503 191.524271 88.468256 7.340480 
+
+File taken - testing/214101037_u_12.txt
+Recognized alphabet- u
+206.790923 112.305892 202.787603 79.855172 3.646978 
+
+File taken - testing/214101037_u_13.txt
+Recognized alphabet- u
+194.328848 108.992238 199.871219 75.940117 3.811240 
+
+File taken - testing/214101037_u_14.txt
+Recognized alphabet- u
+173.511714 101.256823 209.853302 59.989710 11.978820 
+
+File taken - testing/214101037_u_15.txt
+Recognized alphabet- u
+188.673607 103.019364 201.266347 70.276790 5.514065 
+
+File taken - testing/214101037_u_16.txt
+Recognized alphabet- u
+203.132732 88.002998 189.515490 56.328787 2.096609 
+
+File taken - testing/214101037_u_17.txt
+Recognized alphabet- u
+184.590564 91.824207 205.660664 49.572137 6.173426 
+
+File taken - testing/214101037_u_18.txt
+Recognized alphabet- u
+215.815882 100.999240 190.216283 66.595244 3.101042 
+
+File taken - testing/214101037_u_19.txt
+Recognized alphabet- u
+245.750469 88.368277 164.509159 64.856758 6.798246 
+
+File taken - testing/214101037_u_20.txt
+Recognized alphabet- u
+200.524893 98.469249 197.556717 68.725474 2.717674 
+

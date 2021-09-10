@@ -143,3 +143,7 @@ pressed for execution.
 
 7. The output file containing the same information as the console window
 will be in the same directory where the program is present.
+
+/*
+Giving 80%+ accuracy for others' speech samples also ;)
+*/

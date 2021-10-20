@@ -86,3 +86,5 @@ At line numbers 287-289, 348, 371-373, 424 must be changed according to the file
 # Want to improve the project?
 
 Fork this repository. Make the required changes and create a pull request.
+
+* This project is giving 80%+ accuracy for others' speech samples also ;)
